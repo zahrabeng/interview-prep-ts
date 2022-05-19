@@ -1,4 +1,4 @@
-import {timesTwo} from "../src/arrayMap"
+import {timesTwo} from "../src/arrays/arrayMap"
 
 
 test("times each number in array by two", ()=>{

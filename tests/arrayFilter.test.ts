@@ -1,5 +1,5 @@
-import {biggerThanFive} from "../src/arrayFilter"
-import {getEvens} from "../src/arrayFilter"
+import {biggerThanFive} from "../src/arrays/arrayFilter"
+import {getEvens} from "../src/arrays//arrayFilter"
 
 test("return an array of words only if word len > 5", ()=> {
     expect(biggerThanFive(["hello", "zahrouna", "palace", "mono"])).toStrictEqual(["zahrouna", "palace"])
