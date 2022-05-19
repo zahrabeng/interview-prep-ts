@@ -1,7 +1,7 @@
 /* 
      the .map() method will go through each element in an array and 
      update each element according to what you wish to do with it
-  */
+*/
 
 // using map function to multiply each number in the array by two
 export function timesTwo(array: number[]): number[] {
