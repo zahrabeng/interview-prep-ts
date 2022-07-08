@@ -1,7 +1,7 @@
 /* 
     the Object.values() method will go through each key-value
-    pair in the object and return an array of each given 
-    objects values. 
+    pair in the object and return an array including each given 
+    objects value. 
  */
 
 const person = {
