@@ -1,6 +1,8 @@
 /* 
     the .find() method will go through each element in an array and 
     return the FIRST element that satisfies the condition 
+
+    NOTE: if no elements satisty the condition find returns undefined
  */
 
 //using find function to return an element bigger than 10
